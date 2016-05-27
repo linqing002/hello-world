@@ -1,2 +1,2 @@
 # hello-world
--v-
+print "Hello World"
